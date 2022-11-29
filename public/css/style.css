@@ -1,0 +1,39 @@
+body {
+    background-color: #5D93FD;
+}
+
+#grande {
+    margin: 5%;
+    display: block;
+    border: 5px solid black;
+}
+
+#mini {
+    background-color: #4976C9;
+    border-right: 5px solid black;
+    width: 25%;
+    height: 125px;
+}
+
+#moyenne {
+    background-color: #365897;
+    border-top: 5px solid black;
+    border-right: 5px solid black;
+    width: 50%;
+    height: 125px;
+}
+
+#grosse {
+    background-color: #243B64;
+    border-top: 5px solid black;
+    border-right: 5px solid black;
+    width: 75%;
+    height: 125px;
+}
+
+#énorme {
+    background-color: #121D31;
+    border-top: 5px solid black;
+    width: 100%;
+    height: 125px;
+}
